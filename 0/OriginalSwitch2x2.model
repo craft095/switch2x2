@@ -1,4 +1,8 @@
 CONSTANTS
+    Bit0 <-[model value] Bit0
+    Bit1 <-[model value] Bit1
+    Interesting <-[model value] Interesting
+    NotInteresting <-[model value] NotInteresting
     MaxSize <- 3 ;
 
 SPECIFICATION Spec ;
